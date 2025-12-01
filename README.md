@@ -1,40 +1,27 @@
 ### 👋 Olá! Eu sou o Marcos!
 Seja bem-vindo ao meu perfil. Aqui você pode acompanhar minha jornada de aprendizado no mundo da programação.
 
-  
-
-
 <div align="center">
-
-<!-- Card de Estatísticas (do jstrieb) com Tema Dinâmico -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats.vercel.app/api?username=Marcos-Benevenuto&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light ), (prefers-color-scheme: no-preference)"
-    srcset="https://github-stats.vercel.app/api?username=Marcos-Benevenuto&theme=light"
-  />
-  <img src="https://github-stats.vercel.app/api?username=Marcos-Benevenuto" />
-</picture>
-
   
+  <!-- Card de Estatísticas -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.vercel.app/api?username=Marcos-Benevenuto&theme=dark" />
+    <source media="(prefers-color-scheme: light ), (prefers-color-scheme: no-preference)" srcset="https://github-stats.vercel.app/api?username=Marcos-Benevenuto&theme=light" />
+    <img src="https://github-stats.vercel.app/api?username=Marcos-Benevenuto" />
+  </picture>
 
+  <!-- Card de Linguagens (vai aparecer quando você tiver mais código ) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.vercel.app/api/top-langs?username=Marcos-Benevenuto&theme=dark" />
+    <source media="(prefers-color-scheme: light ), (prefers-color-scheme: no-preference)" srcset="https://github-stats.vercel.app/api/top-langs?username=Marcos-Benevenuto&theme=light" />
+    <img src="https://github-stats.vercel.app/api/top-langs?username=Marcos-Benevenuto" />
+  </picture>
 
-<!-- Card de Linguagens (do jstrieb ) com Tema Dinâmico -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats.vercel.app/api/top-langs?username=Marcos-Benevenuto&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light ), (prefers-color-scheme: no-preference)"
-    srcset="https://github-stats.vercel.app/api/top-langs?username=Marcos-Benevenuto&theme=light"
-  />
-  <img src="https://github-stats.vercel.app/api/top-langs?username=Marcos-Benevenuto" />
-</picture>
+</div>
 
+<!-- Animação da Cobrinha de Contribuições -->
+<div align="center">
+  <img src="https://github.com/Marcos-Benevenuto/Marcos-Benevenuto/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
