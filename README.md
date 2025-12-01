@@ -1,5 +1,7 @@
-### 👋 Olá! Eu sou o Marcos!
-Seja bem-vindo ao meu perfil. Aqui você pode acompanhar minha jornada de aprendizado no mundo da programação.
+<!-- Animação de Texto Digitado -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Marcos+Benevenuto!;Futuro+Analista+e+Desenvolvedor;Estudando+Python+e+L%C3%B3gica;Aluno+da+Digital+Innovation+One" alt="Typing SVG" />
+</div>
 
   
 
@@ -8,7 +10,7 @@ Seja bem-vindo ao meu perfil. Aqui você pode acompanhar minha jornada de aprend
 <div align="center">
   <picture>
     <source 
-      media="(prefers-color-scheme: dark)"
+      media="(prefers-color-scheme: dark )"
       srcset="https://github-stats.vercel.app/api?username=Marcos-Benevenuto&theme=dark"
     />
     <source
