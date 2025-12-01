@@ -6,30 +6,33 @@ Seja bem-vindo ao meu perfil. Aqui você pode acompanhar minha jornada de aprend
 
 <div align="center">
 
-<!-- Card de Estatísticas com Tema Dinâmico -->
+<!-- Card de Estatísticas (do jstrieb) com Tema Dinâmico -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Marcos-Benevenuto&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+    srcset="https://github-stats.vercel.app/api?username=Marcos-Benevenuto&theme=dark"
   />
   <source
     media="(prefers-color-scheme: light ), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Marcos-Benevenuto&show_icons=true&include_all_commits=true&count_private=true&theme=default"
+    srcset="https://github-stats.vercel.app/api?username=Marcos-Benevenuto&theme=light"
   />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Benevenuto&show_icons=true&theme=default" />
+  <img src="https://github-stats.vercel.app/api?username=Marcos-Benevenuto" />
 </picture>
 
-<!-- Card de Linguagens com Tema Dinâmico -->
+  
+
+
+<!-- Card de Linguagens (do jstrieb ) com Tema Dinâmico -->
 <picture>
   <source
-    media="(prefers-color-scheme: dark )"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Benevenuto&layout=compact&langs_count=7&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-stats.vercel.app/api/top-langs?username=Marcos-Benevenuto&theme=dark"
   />
   <source
     media="(prefers-color-scheme: light ), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Benevenuto&layout=compact&langs_count=7&theme=default"
+    srcset="https://github-stats.vercel.app/api/top-langs?username=Marcos-Benevenuto&theme=light"
   />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Benevenuto&layout=compact&langs_count=7&theme=default" />
+  <img src="https://github-stats.vercel.app/api/top-langs?username=Marcos-Benevenuto" />
 </picture>
 
 </div>
