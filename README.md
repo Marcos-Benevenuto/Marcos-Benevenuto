@@ -1,6 +1,9 @@
 <!-- Animação de Texto Digitado (com cor azul claro) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Ol%C3%A1!+Eu+sou+o+Marcos+Benevenuto!;Futuro+Cientista+da+Computação;Estudando+Python;Aluno+da+DIO.me" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Ol%C3%A1!+Eu+sou+o+Marcos+Benevenuto!;Futuro+Cientista+da+Computa%C3%A7%C3%A3o;Estudando+Python;Aluno+da+DIO.me" 
+    alt="Typing SVG" 
+  />
 </div>
 
   
